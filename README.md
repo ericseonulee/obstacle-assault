@@ -1,5 +1,5 @@
 # obstacle-assault
-## space shooter game build using unity
+## game build using Unreal Engine 5
 
 ### Game Play
 ![alt text](https://github.com/ericseonulee/obstacle-assault/blob/main/Screenshot.png?raw=true)
